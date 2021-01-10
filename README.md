@@ -1,2 +1,3 @@
 # conflict16.01
-Rezpozytorium z konfliktami do rozwiązania
+
+W repozytorium znajdują się konflikty, które należy rozwiązać.
